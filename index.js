@@ -7,7 +7,7 @@ require('dotenv').config()
 
 // const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.swu9d.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`;
 
-const uri=`mongodb+srv://nkadmin:nazifa1309@cluster0.qnbwm.mongodb.net/nazmulinmarket?retryWrites=true&w=majority`
+const uri=`mongodb+srv://nkadmin:na--fa--09@cluster0.qnbwm.mongodb.net/nazmulinmarket?retryWrites=true&w=majority`
 
 const app = express()
 
